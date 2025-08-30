@@ -1,0 +1,41 @@
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508242332.sql
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508242354.sql
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508250015.sql
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508250039.sql
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508301921.sql
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading from taskboard.DATABASECHANGELOG
+Database is up to date, no changesets to execute
+Aug 30, 2025 8:01:13 PM liquibase.changelog
+INFO: Reading from taskboard.DATABASECHANGELOG
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: UPDATE SUMMARY
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: Run:                          0
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: Previously run:               5
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: Filtered out:                 0
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: -------------------------------
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: Total change sets:            5
+Aug 30, 2025 8:01:13 PM liquibase.util
+INFO: Update summary generated
+Aug 30, 2025 8:01:13 PM liquibase.lockservice
+INFO: Successfully released change log lock
+Aug 30, 2025 8:01:13 PM liquibase.command
+INFO: Command execution complete
